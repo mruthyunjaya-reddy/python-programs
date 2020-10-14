@@ -81,6 +81,7 @@ while True:
 		sys.exit()
 	else:
 		print("invalid option\n please enter valid option:")
+		print("testing git")
 	
 
 '''s=["wellcome","takecare"]
